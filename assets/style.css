@@ -1,0 +1,23 @@
+body{ margin: 20px;}
+
+
+
+.responsive{
+    width: 100%;
+  height: auto;
+  margin-left: 20px;
+}
+.row{
+    margin-left: 2px;
+    box-sizing: border-box: 100px;
+}
+.container-1{
+     margin-left: 20px;}
+
+
+.container-2{
+   margin-left: 20px;
+
+}
+.box-1{
+}
